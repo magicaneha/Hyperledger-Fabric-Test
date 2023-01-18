@@ -1,0 +1,20 @@
+CONTAINER ID   NAME                                                                                                     CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+567d6889ea2a   dev-peer1.org1.example.com-fabcar_1.0-011dd7301c21b8994461fcde9108615bc2933e66e7717051c656c67022679828   0.00%     32.4MiB / 2GiB        1.58%     12.7kB / 12.6kB   0B / 0B          9
+555e01895d79   dev-peer1.org2.example.com-fabcar_1.0-011dd7301c21b8994461fcde9108615bc2933e66e7717051c656c67022679828   0.00%     35.79MiB / 2GiB       1.75%     12.7kB / 12.5kB   24.6kB / 0B      11
+37b18d1bfd87   dev-peer0.org1.example.com-fabcar_1.0-011dd7301c21b8994461fcde9108615bc2933e66e7717051c656c67022679828   0.00%     31.39MiB / 2GiB       1.53%     16.1kB / 13.4kB   0B / 0B          9
+cfacf6a7d518   dev-peer0.org2.example.com-fabcar_1.0-011dd7301c21b8994461fcde9108615bc2933e66e7717051c656c67022679828   0.00%     31.21MiB / 2GiB       1.52%     16.2kB / 13.5kB   0B / 0B          9
+9b3c98d0a1cb   cli                                                                                                      0.00%     6.473MiB / 7.667GiB   0.08%     123kB / 17.4kB    0B / 393kB       2
+5b707ba999ba   orderer2.example.com                                                                                     1.31%     60.66MiB / 7.667GiB   0.77%     3.51MB / 3.56MB   0B / 410kB       12
+93875ae6235f   orderer3.example.com                                                                                     1.11%     61.74MiB / 7.667GiB   0.79%     2.44MB / 2.32MB   0B / 410kB       12
+e672b19e90f4   peer0.org2.example.com                                                                                   4.68%     178MiB / 7.667GiB     2.27%     8.14MB / 5.53MB   0B / 3.1MB       12
+de9bf097fe40   peer1.org1.example.com                                                                                   9.06%     172.1MiB / 7.667GiB   2.19%     8.09MB / 5.28MB   0B / 3.1MB       13
+1d4773806d16   peer0.org1.example.com                                                                                   7.41%     183.3MiB / 7.667GiB   2.34%     8.06MB / 5.49MB   0B / 3.1MB       12
+cf4a97474a2b   peer1.org2.example.com                                                                                   4.96%     176.6MiB / 7.667GiB   2.25%     8MB / 5.39MB      0B / 3.1MB       12
+606584262b54   orderer.example.com                                                                                      1.32%     63.62MiB / 7.667GiB   0.81%     3.64MB / 4.12MB   36.9kB / 410kB   12
+2cab0c4617da   ca.org1.example.com                                                                                      0.00%     47.21MiB / 7.667GiB   0.60%     2.36kB / 0B       0B / 0B          9
+0168d976b7a6   ca.org2.example.com                                                                                      0.00%     45.97MiB / 7.667GiB   0.59%     2.43kB / 0B       0B / 0B          9
+958045e9778a   couchdb0                                                                                                 0.32%     54.66MiB / 7.667GiB   0.70%     172kB / 110kB     0B / 1.29MB      44
+c7dedeb835ba   couchdb2                                                                                                 0.18%     54.04MiB / 7.667GiB   0.69%     173kB / 109kB     0B / 1.29MB      44
+863d3e28b015   couchdb1                                                                                                 0.35%     54.13MiB / 7.667GiB   0.69%     166kB / 107kB     0B / 1.29MB      44
+540ef5131584   couchdb3                                                                                                 0.24%     53.94MiB / 7.667GiB   0.69%     166kB / 106kB     0B / 1.29MB      44
+8d442a4cbfee   grafana                                                                                                  0.08%     44.41MiB / 7.667GiB   0.57%     298kB / 96.3kB    68.2MB / 606kB   11

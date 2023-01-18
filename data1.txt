@@ -1,0 +1,20 @@
+NAME                                                                                                     CPU %     MEM USAGE / LIMIT     MEM %     NET I/O
+dev-peer1.org1.example.com-fabcar_1.0-011dd7301c21b8994461fcde9108615bc2933e66e7717051c656c67022679828   0.00%     32.79MiB / 2GiB       1.60%     30.7kB / 31.8kB
+dev-peer1.org2.example.com-fabcar_1.0-011dd7301c21b8994461fcde9108615bc2933e66e7717051c656c67022679828   0.00%     35.93MiB / 2GiB       1.75%     30.8kB / 31.7kB
+dev-peer0.org1.example.com-fabcar_1.0-011dd7301c21b8994461fcde9108615bc2933e66e7717051c656c67022679828   0.00%     31.66MiB / 2GiB       1.55%     33.8kB / 32.3kB
+dev-peer0.org2.example.com-fabcar_1.0-011dd7301c21b8994461fcde9108615bc2933e66e7717051c656c67022679828   0.00%     31.4MiB / 2GiB        1.53%     33.8kB / 32.2kB
+cli                                                                                                      0.00%     6.473MiB / 7.667GiB   0.08%     123kB / 17.4kB
+orderer2.example.com                                                                                     6.64%     60.8MiB / 7.667GiB    0.77%     8.21MB / 8.26MB
+orderer3.example.com                                                                                     6.06%     61.86MiB / 7.667GiB   0.79%     5.65MB / 5.53MB
+peer0.org2.example.com                                                                                   9.07%     178.4MiB / 7.667GiB   2.27%     14.9MB / 12.2MB
+peer1.org1.example.com                                                                                   9.53%     172.4MiB / 7.667GiB   2.20%     14.8MB / 12MB
+peer0.org1.example.com                                                                                   8.38%     183.6MiB / 7.667GiB   2.34%     14.8MB / 12.3MB
+peer1.org2.example.com                                                                                   9.97%     176.9MiB / 7.667GiB   2.25%     14.8MB / 12.1MB
+orderer.example.com                                                                                      6.63%     63.73MiB / 7.667GiB   0.81%     8.42MB / 8.9MB
+ca.org1.example.com                                                                                      0.00%     47.41MiB / 7.667GiB   0.60%     2.5kB / 0B
+ca.org2.example.com                                                                                      0.00%     46.01MiB / 7.667GiB   0.59%     2.5kB / 0B
+couchdb0                                                                                                 0.47%     54.93MiB / 7.667GiB   0.70%     172kB / 110kB
+couchdb2                                                                                                 0.50%     54.61MiB / 7.667GiB   0.70%     173kB / 109kB
+couchdb1                                                                                                 0.50%     54.3MiB / 7.667GiB    0.69%     166kB / 107kB
+couchdb3                                                                                                 0.72%     54.01MiB / 7.667GiB   0.69%     166kB / 106kB
+                       
